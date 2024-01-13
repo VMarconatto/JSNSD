@@ -3,8 +3,6 @@ const express = require('express')
 const axios = require('axios')
 
 const router = express.Router()
-const city = 'Campinas,'
-const country = 'BR'
 //Env vars
 const API_BASE_URL = process.env.API_BASE_URL
 const API_KEY_NAME = process.env.API_KEY_NAME
