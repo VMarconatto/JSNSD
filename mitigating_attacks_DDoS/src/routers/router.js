@@ -9,9 +9,11 @@ const country = 'BR'
 const API_BASE_URL = process.env.API_BASE_URL
 const API_KEY_NAME = process.env.API_KEY_NAME
 const API_KEY_VALUE = process.env.API_KEY_VALUE
+const City = process.env.WEATHER_CITY 
+const Country = process.env.WEATHER_COUNTRY 
 
 //URL CONNECT
-const url = API_BASE_URL + city + country + '&' + API_KEY_NAME + '=' + API_KEY_VALUE + '&units=metric'
+const url = API_BASE_URL + City + Country + '&' + API_KEY_NAME + '=' + API_KEY_VALUE + '&units=metric'
 
 router.get('/api',async (req, res) => {
     try {
