@@ -137,12 +137,6 @@ implementação de proxies e filtros
 
 Eles são uma excelente base para qualquer pessoa que deseja criar serviços Node.js confiáveis, seguros e bem estruturados.
 
-📄 Licença
-
-Todo o conteúdo deste repositório está sob a MIT License:
-
-MIT License — Copyright (c) 2024
-By VMarconatto
 
 
 
