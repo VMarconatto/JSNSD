@@ -149,5 +149,4 @@ By VMarconatto
 Se quiser trocar ideias, colaborar ou revisar esses laboratórios:
 
 📧 vinicius.marconatto
-💼 GitHub: github.com/SEU_USUARIO_AQUI
- (ajuste depois)
+
