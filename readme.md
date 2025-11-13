@@ -146,7 +146,5 @@ By VMarconatto
 
 📬 Contato
 
-Se quiser trocar ideias, colaborar ou revisar esses laboratórios:
-
 📧 vinicius.marconatto
 
