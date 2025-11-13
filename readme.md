@@ -83,7 +83,7 @@ Agregação de dados a partir de API externa
 Middlewares encadeados
 
 🔗 Abrir projeto →
-
+```text
 🏗 Estrutura do Repositório
 JSNSD/
 │
@@ -100,7 +100,7 @@ JSNSD/
 └── aggregate_api_http_proxy_middleware/
     ├── server.js
     └── src/
-
+```
 📦 Tecnologias Utilizadas
 
 Node.js
