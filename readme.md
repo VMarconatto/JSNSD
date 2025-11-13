@@ -144,7 +144,5 @@ Todo o conteúdo deste repositório está sob a MIT License:
 MIT License — Copyright (c) 2024
 By VMarconatto
 
-📬 Contato
 
-📧 vinicius.marconatto
 
